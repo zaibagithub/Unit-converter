@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_the_values_in_kg">Enter the values in kg</string>
+    <string name="unit_converter_app">Unit Converter App</string>
+    <string name="value_in_kg">Value in kg</string>
+    <string name="convert">convert</string>
+    <string name="value_in_pounds">Value in pounds</string>
+</resources>
